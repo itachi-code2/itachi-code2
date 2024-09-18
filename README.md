@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Wevsite Developer beginner
+I am Website Developer beginner
 
 
 ## 🌐 Socials:
