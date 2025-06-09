@@ -11,8 +11,7 @@ I am Full Stack Developer
 ![](https://github-profile-trophy.vercel.app/?username=itachi-code2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine, Learn to Program
 ---
 [![](https://visitcount.itsvg.in/api?id=itachi-code2&icon=0&color=0)](https://visitcount.itsvg.in)
 
